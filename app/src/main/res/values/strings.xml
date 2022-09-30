@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">P67S212022</string>
+    <string name="Tesoem">Tecnologico de Estudios Superiores del Estado de México</string>
+    <string name="TituloP1">Menu de Opciones</string>
+    <string name="TituloSuma">Suma de dos Números</string>
+    <string name="Numero1">Ingrese el Primer Número</string>
+    <string name="Numero2">Ingrese el Segundo Número</string>
+    <string name="BTNCalcular">Calcular</string>
+    <string name="hintNum1">Número 1</string>
+    <string name="hintNum2">Número 2</string>
+    <string name="BTNRegresar">Regresa al Menu</string>
+    <string name="Resultado">Resultado :</string>
+    <string name="copyright">Copyright \u00a9 2022, Joaquin Perez Practica 6</string>
+
+</resources>
